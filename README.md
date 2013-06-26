@@ -1,5 +1,5 @@
-PHP Madrid Grupo de usuarios de PHP
-====================================
+PHPMad - Madrid PHP User Group
+==============================
 
 La idea del grupo es departir sobre PHP, lenguaje de programación que todos nosotros utilizamos habitualmente.
 
@@ -26,7 +26,7 @@ Miembros con derecho a voto organizativo
 Guia de estilo
 --------------
 
-Las siguiente guia de estilo ha de aplicarse en todas las publicaciones/sites de grupo para transmitir una imagen de seriedad y profesionalidad.
+Las siguiente guia de estilo debe aplicarse en todas las publicaciones/sites de grupo, con objetivo de transmitir una imagen de seriedad y profesionalidad.
 
 ### Nombre del grupo
 El nombre del grupo se escribirá de la siguiente manera. ```PHPMad```. 
