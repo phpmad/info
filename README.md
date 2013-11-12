@@ -1,7 +1,12 @@
-PHP Madrid Grupo de usuarios de PHP
+Grupo de usuarios de PHP Madrid
 ====================================
 
 La idea del grupo es departir sobre PHP, lenguaje de programación que todos nosotros utilizamos habitualmente.
+
+Nombre del grupo
+------------------------------------
+La denominación del grupo es phpmad.
+
 
 Proponer una charla
 ------------------------------------
@@ -34,5 +39,12 @@ Las siguientes empresas y organizaciones colaboran con PHPMad
 Organizadores
 ----------------------
 
-Puedes ver la lista de [organizadores](http://www.meetup.com/PHPMad/members/?op=leaders) en meetup
+Puedes ver la lista de [organizadores](http://www.meetup.com/PHPMad/members/?op=leaders) en meetup.
 
+
+Enlaces de interés
+----------------------
+
+- [Github](https://github.com/phpmad)
+- [Twiter](https://twitter.com/phpmad)
+- [Meetup](http://www.meetup.com)
