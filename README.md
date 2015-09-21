@@ -1,7 +1,7 @@
 Grupo de usuarios de PHP Madrid
 ====================================
 
-La idea del grupo es departir sobre PHP, lenguaje de programación que todos nosotros utilizamos habitualmente.
+La idea del grupo es debatir sobre PHP, lenguaje de programación que todos nosotros utilizamos habitualmente.
 
 Nombre del grupo
 ------------------------------------
