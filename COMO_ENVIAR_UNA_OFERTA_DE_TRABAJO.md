@@ -3,7 +3,7 @@
 Las ofertas de trabajo que se envíen al grupo deben cumplir los siguientes requisitos:
 
 1. Debe ser una oferta para una posición concreta, en una compañía concreta. Ofertas del tipo "buscamos desarrolladores de todos los niveles para importante compañía del sector" no son aceptadas.
-1. Debe estar relacionada con la temática del grupo.  Ofertas del tipo "buscamos desarrolladores de Unity 3D" no son aceptadas. Si se reciben ofertas de este tipo, el usuario será baneado.
+1. Debe estar relacionada con la temática del grupo.  Ofertas del tipo "buscamos desarrolladores de Unity 3D" no son aceptadas.
 1. Debe contener toda la información necesaria. Compañía, posición de la oferta, responsabilidades, condiciones de la misma etc.
 1. Debería indicar una banda salarial.
 
