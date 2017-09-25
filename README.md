@@ -31,8 +31,7 @@ Patrocinadores
 
 Las siguientes empresas y organizaciones colaboran con PHPMad
 
-- [Yunait](http://yunait.com/) es la empresa que patrocina el meetup.
-- [Tuenti](https://www.tuenti.com/)  facilita las oficinas para que podamos reunirnos.
+- [Telefónica](https://www.telefonica.com/)  facilita las oficinas para que podamos reunirnos.
 - [Jetbrain](http://www.jetbrains.com/) nos proporciona licencias.
 - Estamos colaborando con otros patrocinadores, y por supuesto escuchamos cualquier propuesta.
 
