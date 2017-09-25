@@ -11,5 +11,5 @@ Cuando se reciban ofertas que no cumplan condiciones se indicara al remitente, e
 
 Si tu oferta cumple con todas estas condiciones:
 
-1. envía un correo a la lista phpmad-list@meetup.com indicando "[JOB]" en el título, por ejemplo "[JOB] - Oferta para trabajar en XXXX".
-1. asegurate de enviar el correo con una dirección de una cuenta que pertenezca al grupo en meetup. Los mensajes a la lista de direcciones de correo que no pertenecen al grupo son rechazadas.
+1. Envía un correo a la lista phpmad-list@meetup.com indicando "[JOB]" en el título, por ejemplo "[JOB] - Oferta para trabajar en XXXX".
+1. Asegurate de enviar el correo desde dirección de una cuenta que pertenezca al grupo en meetup. Los mensajes a la lista de direcciones de correo que no pertenecen al grupo son rechazadas.
