@@ -6,6 +6,7 @@ Las ofertas de trabajo que se envíen al grupo deben cumplir los siguientes requ
 1. Debe estar relacionada con la temática del grupo.  Ofertas del tipo "buscamos desarrolladores de Unity 3D" no son aceptadas.
 1. Debe contener toda la información necesaria. Compañía, posición de la oferta, responsabilidades, condiciones de la misma etc.
 1. Debería indicar una banda salarial.
+1. Sólo se admite el envio de una misma oferta cada 2 meses. Espera al menos este tiempo antes de reenviar la oferta.
 
 Cuando se reciban ofertas que no cumplan condiciones se indicara al remitente, estas condiciones, si la conducta persiste, el usuario será baneado.
 
